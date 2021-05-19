@@ -1,5 +1,4 @@
 ## Design a System to Identify NYC Subway Stations With the Most Targetted Audience
-
 ---
 Kalu Chibueze Uga
 
