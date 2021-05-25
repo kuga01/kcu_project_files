@@ -21,7 +21,7 @@ To start analysing the subway stations, a line plot of the total daily entries f
 
 | Total Daily Entries for all 378 Subway Stations | Busiest Turnstile: PATH NEW WTC, R540, PTH22 |
 |:----: |:------:|
-| <img src="https://github.com/kuga01/kcu_project_files/blob/main/plots/ubway_total_daily_entries.png" width = "450" height = "225">   | <img src="https://github.com/kuga01/kcu_project_files/blob/main/plots/Subway_busiest_turnstile.png" width = "450" height = "225">    |
+| <img src="https://github.com/kuga01/kcu_project_files/blob/main/plots/Subway_total_daily_entries.png" width = "450" height = "225">   | <img src="https://github.com/kuga01/kcu_project_files/blob/main/plots/Subway_busiest_turnstile.png" width = "450" height = "225">    |
 
 #### Target Audience
 ---
