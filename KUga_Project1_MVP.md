@@ -21,15 +21,15 @@ To start analysing the subway stations, a line plot of the total daily entries f
 
 | Total Daily Entries for all 378 Subway Stations | Busiest Turnstile: PATH NEW WTC, R540, PTH22 |
 |:----: |:------:|
-| <img src="/Users/amyphillip/Desktop/Metis/project_1_nycsubway/plots/Subway_total_daily_entries.png" width = "450" height = "225">   | <img src="/Users/amyphillip/Desktop/Metis/project_1_nycsubway/plots/Subway_busiest_turnstile.png" width = "450" height = "225">    |
+| <img src="https://github.com/kuga01/kcu_project_files/blob/main/plots/ubway_total_daily_entries.png" width = "450" height = "225">   | <img src="https://github.com/kuga01/kcu_project_files/blob/main/plots/Subway_busiest_turnstile.png" width = "450" height = "225">    |
 
 #### Target Audience
 ---
 
 The figure below shows a bar chart of the busiest subways in high income zipcodes from 2/28/2021 to 5/14/2021 where total daily activity is greater than 1,500,000.
 
-<img src="/Users/amyphillip/Desktop/Metis/project_1_nycsubway/plots/Subway_target_stations.png">
+<img src="https://github.com/kuga01/kcu_project_files/blob/main/plots/Subway_target_stations.png">
 
 Based on our current analysis, we observed that for stations with high daily activity, 08:00 a.m. through 08:00 p.m from Monday to Friday is the best period to reach the targetted audience.
 
-![4HR Events](/Users/amyphillip/Desktop/Metis/project_1_nycsubway/plots/Subway_4HR_events.png)
+![4HR Events](https://github.com/kuga01/kcu_project_files/blob/main/plots/Subway_4HR_events.png)
