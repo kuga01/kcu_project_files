@@ -35,4 +35,4 @@ The primary dataset consists of 11-week NYC MTA turnstile data and the secondary
 Screenshots of the recommended target stations are presented below.
 | Average Daily Activity at Target Stations | Interactive Map of Target Stations |
 |:----: |:------:|
-| <img src="/Users/amyphillip/Desktop/Metis/project_1_nycsubway/MTA_Project_Final/plots/Subway_target_stations.png" width = "450" height = "225">   | <img src="/Users/amyphillip/Desktop/Metis/project_1_nycsubway/MTA_Project_Final/plots/Subway_nyc_map_2.png" width = "450" height = "225">    |
+| <img src="https://github.com/kuga01/kcu_project_files/blob/main/MTA_Project_Final/plots/Subway_target_stations.png" width = "450" height = "225">   | <img src="/Users/amyphillip/Desktop/Metis/project_1_nycsubway/MTA_Project_Final/plots/Subway_nyc_map_2.png" width = "450" height = "225">    |
