@@ -17,7 +17,7 @@ To start analysing the subway stations, a line plot of the total daily entries f
 
 | Total Daily Entries for all 378 Subway Stations | Busiest Turnstile: PATH NEW WTC, R540, PTH22 |
 |:----: |:------:|
-| <img src="/Users/amyphillip/Desktop/Metis/project_1_nycsubway/plots/Subway_total_daily_entries.png" width = "450" height = "225">   | <img src="/Users/amyphillip/Desktop/Metis/project_1_nycsubway/plots/Subway_busiest_turnstile.png" width = "450" height = "225">    |
+| <img src="https://github.com/kuga01/kcu_project_files/blob/main/MTA_Project_Final/plots/Subway_Daily.png" width = "450" height = "225">   | <img src="/Users/amyphillip/Desktop/Metis/project_1_nycsubway/plots/Subway_busiest_turnstile.png" width = "450" height = "225">    |
 
 ## Target Audience
 The figure below shows a bar chart of the busiest subways in high income zipcodes from 2/28/2021 to 5/14/2021 where total daily activity is greater than 1,500,000.
