@@ -26,4 +26,4 @@ The figure below shows a bar chart of the busiest subways in high income zipcode
 
 Based on our current analysis, we observed that for stations with high daily activity, 08:00 a.m. through 08:00 p.m from Monday to Friday is the best period to reach the targetted audience.
 
-![4HR Events](/Users/amyphillip/Desktop/Metis/project_1_nycsubway/plots/Subway_4HR_events.png)
+![4HR Events](https://github.com/kuga01/kcu_project_files/blob/main/MTA_Project_Final/plots/Subway_4hr.png)
