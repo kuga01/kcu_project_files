@@ -22,7 +22,7 @@ To start analysing the subway stations, a line plot of the total daily entries f
 ## Target Audience
 The figure below shows a bar chart of the busiest subways in high income zipcodes from 2/28/2021 to 5/14/2021 where total daily activity is greater than 1,500,000.
 
-<img src="/Users/amyphillip/Desktop/Metis/project_1_nycsubway/plots/Subway_target_stations.png">
+<img src="https://github.com/kuga01/kcu_project_files/blob/main/MTA_Project_Final/plots/Subway_target_stations.png">
 
 Based on our current analysis, we observed that for stations with high daily activity, 08:00 a.m. through 08:00 p.m from Monday to Friday is the best period to reach the targetted audience.
 
