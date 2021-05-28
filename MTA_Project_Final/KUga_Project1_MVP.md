@@ -1,4 +1,4 @@
-# Initial Analysis of the System to Identify NYC Subway Stations With the Most Targetted Audience
+# Initial Analysis of the System to Identify NYC Subway Stations With the Most Target Audience
 
 Kalu Chibueze Uga
 
