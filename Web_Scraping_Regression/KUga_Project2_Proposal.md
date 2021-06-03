@@ -1,4 +1,4 @@
-## Design a System to Predict Total Points Attained per Season in Major European Soccer Leagues Using Key Team Stats.
+## Design a System to Predict Total Points Attained per Season in Major European Soccer Leagues Using Key Team Stats
 
 Kalu Chibueze Uga
 
