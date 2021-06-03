@@ -7,6 +7,7 @@ I would like to design a model that shows a relationship between some key featur
 
 #### Design
 * The model will acquire data from the top five leagues in Europe and analyze the data over 12 seasons.
+* Features will be based on team finantial value, offensive abilities, and discipline.
 
 #### Data 
 * The primary dataset will be gathered from [whoscored](http://whoscored.com/).
