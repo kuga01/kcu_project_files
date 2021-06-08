@@ -39,7 +39,7 @@ The figure below shows how the test prediction got better with the added feature
 
 | Initial Model | Final Model with Feature Engineering |
 |:----: |:------:|
-| <img src="https://github.com/kuga01/kcu_project_files/blob/main/Web_Scraping_Regression/plots/initial_model.png" width = "450" height = "300">   | <img src="/Users/amyphillip/Desktop/Metis/project_2_webscrap_linreg/Web_Scraping_Regression/plots/fe_model.png" width = "450" height = "300">    |
+| <img src="https://github.com/kuga01/kcu_project_files/blob/main/Web_Scraping_Regression/plots/initial_model.png" width = "450" height = "300">   | <img src="https://github.com/kuga01/kcu_project_files/blob/main/Web_Scraping_Regression/plots/fe_model.png" width = "450" height = "300">    |
 
 The normal distribution of residuals on the test dataset is shown on the histogram and probability plots below.
 
