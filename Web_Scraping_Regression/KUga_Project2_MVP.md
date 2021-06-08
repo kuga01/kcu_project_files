@@ -10,7 +10,7 @@ Kalu Chibueze Uga
 The goal of this project is to predict the total points a team can achieve based on the primary features that contribute to the success of a soccer club. These features include goal difference, total value of a squad, and many more.
 
 A plot of goal difference againt total points in the figure below  shows a strong linear relationship. Also, the error shows a random distribution, and the probability plot shows that residuals are normally distributed. Given the observations, we can use a linear regression model on the data set.
-<img src="/Users/amyphillip/Desktop/Metis/project_2_webscrap_linreg/Web_Scraping_Regression/plots/gd_var_plot.png" width = "850" height = "325">
+<img src="https://github.com/kuga01/kcu_project_files/blob/main/Web_Scraping_Regression/plots/gd_var_plot.png" width = "850" height = "325">
 
 After analysing all the features that were scrapped from transfermarkt.com and whoscored.com, I have decided to work with fifteen features that show a decent correlation with total points. 
 
