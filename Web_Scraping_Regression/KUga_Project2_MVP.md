@@ -43,7 +43,7 @@ The figure below shows how the test prediction got better with the added feature
 
 The normal distribution of residuals on the test dataset is shown on the histogram and probability plots below.
 
-<img src="/Users/amyphillip/Desktop/Metis/project_2_webscrap_linreg/Web_Scraping_Regression/plots/hist_prob.png" width = "850" height = "325">
+<img src="https://github.com/kuga01/kcu_project_files/blob/main/Web_Scraping_Regression/plots/hist_prob.png" width = "850" height = "325">
 
 #### Error Analysis
 ---
