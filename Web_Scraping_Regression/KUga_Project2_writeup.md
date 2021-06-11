@@ -7,7 +7,7 @@ European soccer has set the standard accross the world in viewership, transfer f
 ## Design
 A plot of goals scored againt total points in Figure 1 shows a decent linear relationship. Also, the error shows a random distribution, and the probability plot shows that residuals are normally distributed. Given these observations, we can use a linear regression model on the dataset.
 
-<img src="/Users/amyphillip/Desktop/Metis/project_2_webscrap_linreg/Web_Scraping_Regression/plots/why_regression_diagnostics.png" width = "850" height = "325" class ="center"> Figure 1
+<img src="https://github.com/kuga01/kcu_project_files/blob/main/Web_Scraping_Regression/plots/why_regression_diagnostics.png" width = "850" height = "325" class ="center"> Figure 1
 
 Current trend from the data set shows that teams with a high value squad stand a better chance of achieving more points in a season because the overall quality of the players are better. The teams passing accuracy, chance creation, and goal convertion rate is higher.
 
