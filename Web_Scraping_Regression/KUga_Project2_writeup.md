@@ -42,7 +42,7 @@ Data for twelve seasons (2009 to 2020) and the top five European leagues were co
 ## Communication
 Backward elimination method was used to eliminate features that would not improve the model more than it would by chance. Starting with a combination of ten features, this method trimed it down to six primary features. Feature engineering was performed to add three more features that improved the R-squared of the validation dataset. The coefficients are shown in Figure 2.
 
-<img src="/Users/amyphillip/Desktop/Metis/project_2_webscrap_linreg/Web_Scraping_Regression/plots/coefficients.png" width = "650" height = "225" class ="center"> 
+<img src="https://github.com/kuga01/kcu_project_files/blob/main/Web_Scraping_Regression/plots/coefficients.png" width = "650" height = "225" class ="center"> 
 Figure 2
 
 
@@ -50,15 +50,15 @@ Furthermore, error analysis from validation and regularization of the primary mo
 
 | Backward Elimination | MAE Comparison |
 |:----: |:------:|
-| <img src="/Users/amyphillip/Desktop/Metis/project_2_webscrap_linreg/Web_Scraping_Regression/plots/backward_elimination.png" width = "450" height = "300">   | <img src="/Users/amyphillip/Desktop/Metis/project_2_webscrap_linreg/Web_Scraping_Regression/plots/mae_plot.png" width = "450" height = "300">    |
+| <img src="/Users/amyphillip/Desktop/Metis/project_2_webscrap_linreg/Web_Scraping_Regression/plots/backward_elimination.png" width = "450" height = "300">   | <img src="https://github.com/kuga01/kcu_project_files/blob/main/Web_Scraping_Regression/plots/backward_elimination.png" width = "450" height = "300">    |
 Figure 3
 
 The close distribution of points around the model line and the distribution of residuals around the horizontal line in figure 4 shows that the model can predict about 70 percent of points. The model can be further improved by more feature engineering and collecting the average of the coefficients from k-fold cross validation.
 
-<img src="/Users/amyphillip/Desktop/Metis/project_2_webscrap_linreg/Web_Scraping_Regression/plots/cv_fe1.png" width = "750" height = "225" class ="center"> 
+<img src="https://github.com/kuga01/kcu_project_files/blob/main/Web_Scraping_Regression/plots/cv_fe1.png" width = "750" height = "225" class ="center"> 
 Figure 4
 
 Finally, the error distribution in Figure 5 satisfies the assumption that linear regression residuals should be normally distributed.  Points on the probabiity plot are close to the normality line.
 
-<img src="/Users/amyphillip/Desktop/Metis/project_2_webscrap_linreg/Web_Scraping_Regression/plots/cv_fe2.png" width = "650" height = "225" class ="center">
+<img src="https://github.com/kuga01/kcu_project_files/blob/main/Web_Scraping_Regression/plots/cv_fe2.png" width = "650" height = "225" class ="center">
 Figure 5
