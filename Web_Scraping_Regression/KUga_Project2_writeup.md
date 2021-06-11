@@ -50,7 +50,7 @@ Furthermore, error analysis from validation and regularization of the primary mo
 
 | Backward Elimination | MAE Comparison |
 |:----: |:------:|
-| <img src="/Users/amyphillip/Desktop/Metis/project_2_webscrap_linreg/Web_Scraping_Regression/plots/backward_elimination.png" width = "450" height = "300">   | <img src="https://github.com/kuga01/kcu_project_files/blob/main/Web_Scraping_Regression/plots/backward_elimination.png" width = "450" height = "300">    |
+| <img src="https://github.com/kuga01/kcu_project_files/blob/main/Web_Scraping_Regression/plots/backward_elimination.png" width = "450" height = "300">   | <img src="https://github.com/kuga01/kcu_project_files/blob/main/Web_Scraping_Regression/plots/mae_plot.png" width = "450" height = "300">    |
 Figure 3
 
 The close distribution of points around the model line and the distribution of residuals around the horizontal line in figure 4 shows that the model can predict about 70 percent of points. The model can be further improved by more feature engineering and collecting the average of the coefficients from k-fold cross validation.
