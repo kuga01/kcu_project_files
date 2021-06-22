@@ -12,13 +12,13 @@ The dataset will be NASA TurboFan Engine data provided by NASA. The data consist
 The test data showed that some sensor readings and operation mode were constant for all the engines. These constant features were droped. The features that showed dependence on settings were retained. Figure 1 shows feature dependence on operation settings.
 | Constant feature | Varying feature |
 |:----: |:------:|
-| <img src="/Users/amyphillip/Desktop/Metis/project_3_business/Business/plot/mode3_sensor2.png" width = "450" height = "300">   | <img src="/Users/amyphillip/Desktop/Metis/project_3_business/Business/plot/mode1_sensor2.png" width = "450" height = "300">    |
+| <img src="https://github.com/kuga01/kcu_project_files/blob/main/Business/plot/mode3_sensor2.png" width = "450" height = "300">   | <img src="https://github.com/kuga01/kcu_project_files/blob/main/Business/plot/mode1_sensor2.png" width = "450" height = "300">    |
 Figure 1, Feature dependence on operation settings.
 
 A plot of the distribution of SENSOR 9 shows a normal distribution as seen in Figure 2a. Figure 2b shows the current cycle and RUL of the first 10 engines.
 | 2a, Distribution of SENSOR 9 | 2b, Cycle and RUL of first 10 engines |
 |:----: |:------:|
-| <img src="/Users/amyphillip/Desktop/Metis/project_3_business/Business/plot/dist_s9.png" width = "450" height = "300">   | <img src="/Users/amyphillip/Desktop/Metis/project_3_business/Business/plot/cycle_rul.png" width = "450" height = "300">    |
+| <img src="https://github.com/kuga01/kcu_project_files/blob/main/Business/plot/dist_s9.png" width = "450" height = "300">   | <img src="https://github.com/kuga01/kcu_project_files/blob/main/Business/plot/cycle_rul.png" width = "450" height = "300">    |
 Figure 2, Distribution and cycle plots.
 
 #### Model
