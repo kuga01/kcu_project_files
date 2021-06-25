@@ -7,3 +7,8 @@ The goal of this project is to help Women Tech Women Yes (WTWY) identify the top
 
 #### Abstract
 European soccer has set the standard accross the world in viewership, transfer fees, revenue, and fantasy sports. Clubs have been spending lots of money every year to acquire players that will boost the teams chance of securing more points over the course of a soccer season.The goal of this project is to predict the total points a team can achieve based on the primary features that contribute to the success of a soccer club. These features include goals scored, total value of a squad, and many more.
+
+### Project 3 - Business Fundamentals for Data Practitioners: Predictive Maintenance of Simulated Aircraft Gas Turbine Engines
+
+#### Abstract
+Mechanical failure is expected of all mechanical equipment and it could have severe consequences like termination of contract due to downtime accrued. The ability to correctly predict equipment failure will help companies improve utilization of equipment parts and avoid unnecessary downtime. Predictive maintenance via machine learning is designed to help predict the probability of failure so that maintenance can be scheduled in advance and carried out only when needed. The goal of this project is to show that using historic dataset, we can find failure patterns that could be used to predict failure in the future.
