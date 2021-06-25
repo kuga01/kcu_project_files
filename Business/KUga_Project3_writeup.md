@@ -22,13 +22,13 @@ The dataset will be NASA TurboFan Engine data provided by NASA. The data consist
 2. Visualized some features to find trends - The test data showed that some sensor readings and operation mode were constant for all the engines. These constant features were droped. The features that showed relationship with RUL were retained. Figure 1 shows feature dependence on RUL.
 | Constant feature | Varying feature |
 |:----: |:------:|
-| <img src="/Users/amyphillip/Desktop/Metis/project_3_business/Business/plot/sensor1_engine1_train.png" width = "450" height = "300">   | <img src="/Users/amyphillip/Desktop/Metis/project_3_business/Business/plot/sensor14_engine1_train.png" width = "450" height = "300">    |
+| <img src="https://github.com/kuga01/kcu_project_files/blob/main/Business/plot/sensor1_engine1_train.png" width = "450" height = "300">   | <img src="https://github.com/kuga01/kcu_project_files/blob/main/Business/plot/sensor14_engine1_train.png" width = "450" height = "300">    |
 Figure 1, Feature dependence on RUL.
 
 A plot of the distribution of SENSOR 9 shows a normal distribution as seen in Figure 2a. Figure 2b shows the current cycle and RUL of the first 10 engines in the test set.
 | 2a, Distribution of SENSOR 9 | 2b, Cycle and RUL of first 10 engines |
 |:----: |:------:|
-| <img src="/Users/amyphillip/Desktop/Metis/project_3_business/Business/plot/dist_s9_test.png" width = "450" height = "300">   | <img src="/Users/amyphillip/Desktop/Metis/project_3_business/Business/plot/cycle_rul.png" width = "450" height = "300">    |
+| <img src="https://github.com/kuga01/kcu_project_files/blob/main/Business/plot/dist_s9_test.png" width = "450" height = "300">   | <img src="https://github.com/kuga01/kcu_project_files/blob/main/Business/plot/cycle_rul.png" width = "450" height = "300">    |
 Figure 2, Sensor distribution and cycle plots on test set.
 
 #### Model
@@ -38,7 +38,7 @@ Figure 2, Sensor distribution and cycle plots on test set.
 The scatter plots of Sensor 14 in Engine 1 for the train set in shown in Figure 3. The plots show that an RUL value of 30 can be used as a cut-off to generate the label for a classification model because when RUL is under 20 the sensor readings fall outside their normal operating range.
 | Train set | Train set |
 |:----: |:------:|
-| <img src="/Users/amyphillip/Desktop/Metis/project_3_business/Business/plot/sensor14_engine1_train.png" width = "450" height = "300">   | <img src="/Users/amyphillip/Desktop/Metis/project_3_business/Business/plot/sensor14_engine1_test_tableau.png" width = "450" height = "300">    |
+| <img src="https://github.com/kuga01/kcu_project_files/blob/main/Business/plot/sensor14_engine1_train.png" width = "450" height = "300">   | <img src="https://github.com/kuga01/kcu_project_files/blob/main/Business/plot/sensor14_engine1_test_tableau.png" width = "450" height = "300">    |
 Figure 3, Scatter plot of Sensor 14, Engine 1
 
 #### Tools
@@ -48,6 +48,6 @@ Figure 3, Scatter plot of Sensor 14, Engine 1
 #### Communication
 The findings from the exploratory data analysis of the train set are communicated through an interactive dashboard on tableau. On the dashboard, we can select single or multiple engines and view a horizontal bar plot of maximum RUL for the selected engine(s). The dashboard shows a plot of RUL until engine failure and a normal distribution of Sensor 2 readings. Finally, a scatter plot of sensor 2 and RUL with a linear regression model is displayed at the base of the dashboard. Figure 4 shows a screenshot of the dashboard.
 
-<img src="/Users/amyphillip/Desktop/Metis/project_3_business/Business/plot/tableau.png" width = "650" height = "675" class ="center">
+<img src="https://github.com/kuga01/kcu_project_files/blob/main/Business/plot/tableau.png" width = "650" height = "675" class ="center">
 Figure 4, Screenshot of tableau interactive dashboard.
 
