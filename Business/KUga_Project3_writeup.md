@@ -39,7 +39,7 @@ The scatter plots of Sensor 14 in Engine 1 for the train set in shown in Figure 
 | Train set | Train set |
 |:----: |:------:|
 | <img src="https://github.com/kuga01/kcu_project_files/blob/main/Business/plot/sensor14_engine1_train.png" width = "450" height = "300">   | <img src="https://github.com/kuga01/kcu_project_files/blob/main/Business/plot/sensor14_engine1_test_tableau.png" width = "450" height = "300">    |
-Figure 3, Scatter plot of Sensor 14, Engine 1
+Figure 3, Scatter plot of Sensor 14, Engine 1.
 
 #### Tools
 * Google Sheets was used for data cleaning and exploratory data analysis.
