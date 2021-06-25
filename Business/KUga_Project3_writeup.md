@@ -20,6 +20,7 @@ The dataset will be NASA TurboFan Engine data provided by NASA. The data consist
 
 1. Google Sheets was used for data cleansing and manipulation.
 2. Visualized some features to find trends - The test data showed that some sensor readings and operation mode were constant for all the engines. These constant features were droped. The features that showed relationship with RUL were retained. Figure 1 shows feature dependence on RUL.
+
 | Constant feature | Varying feature |
 |:----: |:------:|
 | <img src="https://github.com/kuga01/kcu_project_files/blob/main/Business/plot/sensor1_engine1_train.png" width = "450" height = "300">   | <img src="https://github.com/kuga01/kcu_project_files/blob/main/Business/plot/sensor14_engine1_train.png" width = "450" height = "300">    |
