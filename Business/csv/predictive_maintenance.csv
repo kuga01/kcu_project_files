@@ -1,0 +1,16 @@
+,,,,
+,,,,
+,Sheet,Status,Actions performed,Info
+,train_FD001,Original dataset (.txt),"Split to 26 Columns, check for duplicates",20631 rows x 26 cols
+,test_FD001,Original dataset (.txt),"Split to 26 Columns, check for duplicates",13096 rows x 26 cols
+,RUL_FD001,Original dataset (.txt),,100 rows
+,RUL_updated,Updated RUL dataset,Added Engine ID and Expected fail cycle for Engines.,
+,test_updated,Updated test dataset,"VLOOKUP, IF Condition, Pivot table",
+,train_updated,Updated train dataset,"VLOOKUP, IF Condition, transferred train_pivot table",
+,train_pivot,Pivot sheet,Pivot Table to find Max Cycle in updated train dataset.,
+,train_plots,plots,Bar and scatter plots from updated train dataset.,
+,train_plots_2,plots,Scatter plots of RUL/Sensors for Engine 1.,
+,test_plots,plots,Bar and scatter plots from updated test dataset.,
+,train_export,,Final train dataset that can be used in Pandas,
+,test_export,,Final test dataset that can be used in Pandas,
+,train_to_tableau,,Train datadet to be used in tableau for linear regression and dashboard visualization.,
