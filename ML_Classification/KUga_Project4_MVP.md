@@ -12,7 +12,7 @@ The data will be Milling Data Set from https://www.kaggle.com/shasun/tool-wear-d
 The distribution of the classes in the dataset, seen in Figure 1a, shows that the classes are within 10% of the expected mean of the total classes. Thus, we can say that the dataset is fairly balanced. Also, only observations from actual machining operations will be used for analysis. Figure 1b shows the count of all actual maching operations.
 | a, Percentage of classes in dataset | b, Count of machining operations |
 |:----: |:------:|
-| <img src="/Users/amyphillip/Desktop/Metis/project_4_ml_classification/ML_classification/plots/class_percent.png" width = "450" height = "300">   | <img src="/Users/amyphillip/Desktop/Metis/project_4_ml_classification/ML_classification/plots/machining_process.png" width = "450" height = "300">    |
+| <img src="https://github.com/kuga01/kcu_project_files/blob/main/ML_Classification/plots/class_percent.png" width = "450" height = "300">   | <img src="https://github.com/kuga01/kcu_project_files/blob/main/ML_Classification/plots/machining_process.png" width = "450" height = "300">    |
 Figure 1, EDA
 
 #### Metrix
@@ -26,6 +26,6 @@ The goal is to try and predict all the worn mill tools correctly.  Threshold can
 A plot of model comparison and the XGBOOST class plot is shown below.
 | 2a, Model Comparison | 2b, XGBOOST Class Comprison |
 |:----: |:------:|
-| <img src="/Users/amyphillip/Desktop/Metis/project_4_ml_classification/ML_classification/plots/Model_Comparison.png" width = "450" height = "300">   | <img src="/Users/amyphillip/Desktop/Metis/project_4_ml_classification/ML_classification/plots/actual_predicted.png" width = "450" height = "300">    |
+| <img src="https://github.com/kuga01/kcu_project_files/blob/main/ML_Classification/plots/Model_Comparison.png" width = "450" height = "300">   | <img src="https://github.com/kuga01/kcu_project_files/blob/main/ML_Classification/plots/actual_predicted.png" width = "450" height = "300">    |
 Figure 2,
 
