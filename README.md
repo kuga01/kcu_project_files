@@ -12,3 +12,8 @@ European soccer has set the standard accross the world in viewership, transfer f
 
 #### Abstract
 Mechanical failure is expected of all mechanical equipment and it could have severe consequences like termination of contract due to downtime accrued. The ability to correctly predict equipment failure will help companies improve utilization of equipment parts and avoid unnecessary downtime. Predictive maintenance via machine learning is designed to help predict the probability of failure so that maintenance can be scheduled in advance and carried out only when needed. The goal of this project is to show that using historic dataset, we can find failure patterns that could be used to predict failure in the future.
+
+### Project 4 - Machine Learning Classification - Detecting Wear on a Computer Numerically Controlled Mill Tool
+
+#### Abstract
+Advanced manufacturing and large scale production depend highly on Computer Numerically Controlled (CNC) machining. However, many companies are not efficient because they have a poor approach to mill tool failure management. Mill tool wear can lead to end products that will fail final Quality Check, waste of raw materials, waste of coolant materials, and can result in unnecessary financial expenses if the mill tool breaks. The goal of this project is to predict wear on a CNC milling tool so that the milling tool can be replaced before products are ruined due to poor cutting structure of the worn mill tool.
