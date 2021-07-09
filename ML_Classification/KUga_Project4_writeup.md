@@ -23,7 +23,7 @@ The data is Milling Data Set from https://www.kaggle.com/shasun/tool-wear-detect
 The distribution of classes in the dataset, seen in Figure 1a, shows that the classes are within 10% of the expected mean of the total classes. Thus, we can say that the dataset is fairly balanced. Also, only observations from actual machining operations will be used for analysis. Figure 1b shows the count of all actual maching operations.
 | a, Percentage of classes in dataset | b, Count of machining operations |
 |:----: |:------:|
-| <img src="/Users/amyphillip/Desktop/Metis/project_4_ml_classification/ML_classification/plots/class_percent.png" width = "450" height = "300">   | <img src="/Users/amyphillip/Desktop/Metis/project_4_ml_classification/ML_classification/plots/machining_process.png" width = "450" height = "300">    |
+| <img src="https://github.com/kuga01/kcu_project_files/blob/main/ML_Classification/plots/class_percent.png" width = "450" height = "300">   | <img src="https://github.com/kuga01/kcu_project_files/blob/main/ML_Classification/plots/machining_process.png" width = "450" height = "300">    |
 Figure 1, EDA
 
 *Metrics and Model*
@@ -33,14 +33,14 @@ Six classification models were tested on the dataset and the best predictive per
 
 | 2a, AUC Comparison | 2b, XGBOOST Predicted Class |
 |:----: |:------:|
-| <img src="/Users/amyphillip/Desktop/Metis/project_4_ml_classification/ML_classification/plots/roc_auc_curve_comparison.png" width = "450" height = "300">   | <img src="/Users/amyphillip/Desktop/Metis/project_4_ml_classification/ML_classification/plots/actual_predicted.png" width = "450" height = "300">    |
+| <img src="https://github.com/kuga01/kcu_project_files/blob/main/ML_Classification/plots/roc_auc_curve_comparison.png" width = "450" height = "300">   | <img src="https://github.com/kuga01/kcu_project_files/blob/main/ML_Classification/plots/actual_predicted.png" width = "450" height = "300">    |
 Figure 2, XGBOOST Performance
 
 Decreasing the threshold from 0.5 to 0.45 penalized the false negatives more. The result was a decrease in number of false negatives and an increase in recall from 0.9958 to 0.9972 as one would expect. The confusion matrix is shown in figure 3.
 
 | 3a, threshold = 0.5 | 3b, threshold = 0.45 |
 |:----: |:------:|
-| <img src="/Users/amyphillip/Desktop/Metis/project_4_ml_classification/ML_classification/plots/xgboost_conf_matrix.png" width = "450" height = "300">   | <img src="/Users/amyphillip/Desktop/Metis/project_4_ml_classification/ML_classification/plots/xgboost_conf_matrix_2.png" width = "450" height = "300">    |
+| <img src="https://github.com/kuga01/kcu_project_files/blob/main/ML_Classification/plots/xgboost_conf_matrix.png" width = "450" height = "300">   | <img src="https://github.com/kuga01/kcu_project_files/blob/main/ML_Classification/plots/xgboost_conf_matrix_2.png" width = "450" height = "300">    |
 Figure 3, XGBOOST Confusion Matrix
 
 #### Tools
@@ -53,6 +53,6 @@ The findings from the project shows that accuracy and AUC are interpretable metr
 
 | 4a, Flask App Home | 4b, AUC plot |
 |:----: |:------:|
-| <img src="/Users/amyphillip/Desktop/Metis/project_4_ml_classification/ML_classification/plots/flask_home.png" width = "450" height = "300">   | <img src="/Users/amyphillip/Desktop/Metis/project_4_ml_classification/ML_classification/plots/flask_2.png" width = "450" height = "300">    |
+| <img src="https://github.com/kuga01/kcu_project_files/blob/main/ML_Classification/plots/flask_home.png" width = "450" height = "300">   | <img src="https://github.com/kuga01/kcu_project_files/blob/main/ML_Classification/plots/flask_2.png" width = "450" height = "300">    |
 Figure 4, Screenshot of Flask App.
 
