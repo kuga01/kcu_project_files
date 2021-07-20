@@ -24,7 +24,7 @@ Topic 9 = SECURITY/HEALTH/ENVIRONMENT CONCERNS
 
 I have used TruncatedSVD and KMEANS cluster to plot the cluster of points by topic as shown in figure 1. 
 
-<img src="/Users/amyphillip/Desktop/Metis/Project_5_NLP/NLP_Unsupervised_Learning/plots/cluster_of_points.png" width = "450" height = "450"> 
+<img src="https://github.com/kuga01/kcu_project_files/blob/main/NLP_Unsupervised_Learning/plots/cluster_of_points.png" width = "450" height = "450"> 
 Figure 1, Cluster of 10 topics
 
 Finally, I have used a distance matrix to find the most similar document in a topic for a given message data. For instance, given the sample message below,
