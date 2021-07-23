@@ -18,7 +18,7 @@ The data will comprise of labelled messages related to disaster response in mult
 #### Algorithm
 Modeling was performed using six combinations of CountVectorizer and Term Frequency - Inverse Document Frequency (Tfidf) with (Latent Dirichlet Allocation, Latent Semantic Allocation, and Non-Negative Matrix Factorization). Tfidf and Latent Dirichlet Allocation was the best combination because the topics were more interpretable based on the top ten messages in the topic. Also, this combination identified a topic on "Donations" which other combinations could not identify. Figure 1 shows a plot of topics and the count of documents in the topics.
 
-<img src="/Users/amyphillip/Desktop/Metis/Project_5_NLP/NLP_Unsupervised_Learning/plots/topic_doc_count.png" width = "750" height = "450">
+<img src="https://github.com/kuga01/kcu_project_files/blob/main/NLP_Unsupervised_Learning/plots/topic_doc_count.png" width = "750" height = "450">
 Figure 1, Plot of count of documents in topic.
 
 
@@ -26,7 +26,7 @@ The ten inferred topics and cluster of topics 4 and 7 are shown in figure 2.
 
 | 2a, Inferred topics | 2b, Cluster of topics 4 and 7 |
 |:----: |:------:|
-| <img src="/Users/amyphillip/Desktop/Metis/Project_5_NLP/NLP_Unsupervised_Learning/plots/top_10_topics.png" width = "450" height = "350">   | <img src="/Users/amyphillip/Desktop/Metis/Project_5_NLP/NLP_Unsupervised_Learning/plots/topic4_topic7_clusters.png" width = "450" height = "350">    |
+| <img src="https://github.com/kuga01/kcu_project_files/blob/main/NLP_Unsupervised_Learning/plots/top_10_topics.png" width = "450" height = "350">   | <img src="https://github.com/kuga01/kcu_project_files/blob/main/NLP_Unsupervised_Learning/plots/topic4_topic7_clusters.png" width = "450" height = "350">    |
 Figure 2, Top 10 topics and cluster of topics 4 and 7
 
 *Prediction and similar document*
@@ -64,6 +64,6 @@ After building a model to categorize disaster messages, the prediction has been 
 
 | 3a, Flask App Home | 3b, Result |
 |:----: |:------:|
-| <img src="/Users/amyphillip/Desktop/Metis/Project_5_NLP/NLP_Unsupervised_Learning/plots/nlp_app1.png" width = "450" height = "250">   | <img src="/Users/amyphillip/Desktop/Metis/Project_5_NLP/NLP_Unsupervised_Learning/plots/nlp_app2.png" width = "450" height = "250">    |
+| <img src="https://github.com/kuga01/kcu_project_files/blob/main/NLP_Unsupervised_Learning/plots/nlp_app1.png" width = "450" height = "250">   | <img src="https://github.com/kuga01/kcu_project_files/blob/main/NLP_Unsupervised_Learning/plots/nlp_app2.png" width = "450" height = "250">    |
 Figure 3, Topic Modeling Prediction using Flask App.
 
